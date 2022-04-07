@@ -1,0 +1,20 @@
+{
+	"name": "Pidgey",
+	"symbol": "PM",
+	"image": "0.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "0.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "FRRap87sDrfpHXGsoQ2P5oHhF8SdcgbMmwvPqebsC7iB",
+				"share": 100
+			}
+		]
+	},
+	"collection": {"name": "PokeMon", "family": "PokeDex"}
+}

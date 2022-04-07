@@ -1,0 +1,20 @@
+{
+	"name": "Furret",
+	"symbol": "PM",
+	"image": "6.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "6.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "FRRap87sDrfpHXGsoQ2P5oHhF8SdcgbMmwvPqebsC7iBs",
+				"share": 100
+			}
+		]
+	},
+	"collection": { "name": "PokeMon", "family": "PokeDex" }
+}
